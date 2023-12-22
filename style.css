@@ -29,9 +29,20 @@ header {
     align-items: center;
 }
 
-.menu {
+nav ul {
     display: flex;
     gap: 1rem;
+    list-style: none;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    color: #909090;
 }
 
 .title-text {
