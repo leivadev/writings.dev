@@ -1,6 +1,6 @@
 # writings.dev
 
-This is a solution for a static webpage project idea recommended by the full-stack readmap in [roadmap.sh](https://roadmap.sh), applying HTML and CSS knowledge.
+This is a solution for a static webpage project idea recommended by the full-stack roadmap in [roadmap.sh](https://roadmap.sh), applying HTML and CSS knowledge.
 
 ## Tools used
 
