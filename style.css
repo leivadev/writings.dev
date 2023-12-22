@@ -263,18 +263,15 @@ footer {
     font-family: "Source Sans 3";
     font-size: 19px;
     font-weight: 600;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-between;
 }
 
 #left-footer {
     display: flex;
     gap: 16px;
-    align-items: center;
-    justify-content: space-between;
-}
-
-#twitter {
-    display: flex;
-    gap: 10px;
     align-items: center;
     justify-content: space-between;
 }
