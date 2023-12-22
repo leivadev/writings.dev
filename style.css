@@ -3,20 +3,22 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: inherit;
-}
-
-html {
     box-sizing: border-box;
 }
 
-body {
+html {
     display: block;
+}
+
+body {
     background: #232830;
     color: white;
     font-family: Poppins;
-    padding-left: 160px;
-    padding-right: 160px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    max-width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 header {
